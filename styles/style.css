@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* shared styles and variable */
+
+.qs-bold {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+  font-style: normal;
+}
+.qs-semibold {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 600px;
+  font-style: normal;
+}
+.qs-medium {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
+.qs-light {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 300px;
+  font-style: normal;
+}
+:root {
+  --clrorange: #fea301;
+  --clrskyblue: #01acfd;
+  --clrcyan: #05d4df;
+  --clrpurple: #5d58ef;
+  --clrblack: #000000;
+  --clrsky: #3cd8e8;
+  --clrlightgreen: #95b226;
+}
